@@ -69,5 +69,9 @@
     <Build Include="dbo\Tables\Country.sql" />
     <Build Include="dbo\Functions\ifn_get_persons.sql" />
     <Build Include="dbo\User Defined Types\ListOfLong.sql" />
+    <Build Include="dbo\Functions\ifn_get_persons2.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="TestDbTvp.publish.xml" />
   </ItemGroup>
 </Project>
